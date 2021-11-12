@@ -1,2 +1,3 @@
-# Kafka-Examples
-Kafka Pub/Sub example with NodeJS
+# Apache Kafka Basic Example
+
+A Kafka producer x consumer messages example with NodeJS
